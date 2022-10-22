@@ -1,0 +1,57 @@
+.thankYou{
+    text-align:center;
+    display: block;
+    background-color: rgba(232, 232, 234, 0.918);
+    color:rgb(85,170,104);
+    padding: 30px 20px;
+    border-radius: 25px;
+    font-family: sans-serif;
+    margin-top: 15%;
+
+}
+body {
+    background-image: url("confetti-31.gif");
+    background-color: rgb(177, 214, 190);
+}
+
+.question{
+    text-align:center;
+    display: block;
+    background-color: rgba(232, 232, 234, 0);
+    color:rgb(69, 133, 83);
+    padding: 30px 20px;
+    border-radius: 25px;
+    font-family: sans-serif;
+
+}
+.question a{
+    color:rgb(69, 133, 83);
+}
+.question a:hover{
+    color:rgb(44, 87, 53);
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.returnHome{
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align:center;
+    display: block;
+    background-color: rgb(69, 133, 83);
+    color:rgb(232, 232, 234);
+    border-radius: 25px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.returnHome a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color:rgb(196, 233, 193);
+}
+.returnHome a:hover{
+    font-family: sans-serif;
+    color:rgb(230, 247, 231);
+    font-weight: bold;
+    font-family: cursive;
+}
